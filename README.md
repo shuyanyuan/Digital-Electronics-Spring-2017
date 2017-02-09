@@ -42,5 +42,6 @@ Users can use hand movements to feel the sound of eggs, each egg has an especial
 
 Same as the music egg carton
 
+
 3. By using the RGB color sensor, different color of balloon has an especial sound, users can by touching different color of balloon to create a song.
 

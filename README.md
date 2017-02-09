@@ -25,20 +25,18 @@ A passive infrared sensor (PIR sensor) is an electronic sensor that measures inf
 
 
 
-
-HW2
+# HW2
 
 Sketches
-
-
-
+![](http://irisyuen0802.tumblr.com/image/157028672858)
 
 1.Music egg carton
 
-Users can use hand movements to feel the sound of eggs, each egg has an especial tone of sound, so that users can notice the different when interact the egg carton. By using PIR sensor and put a LED inside the egg, when a hand pass through it, the egg will be brighter and the produce a sound.
+Users can use hand movements to feel the sound of eggs, each egg has an especial tone of sound, so that users can notice the different when interacting the egg carton. By using PIR sensor and put a LED inside the egg, when a hand pass through it, the egg will be brighter and the produce a sound.
 
 2. Music light bulbs 
 
 Same as the music egg carton
 
-3. By using RGB color sensor, different color of balloon has an especial sound, users can by touching different color of balloon to create a song.
+3. By using the RGB color sensor, different color of balloon has an especial sound, users can by touching different color of balloon to create a song.
+

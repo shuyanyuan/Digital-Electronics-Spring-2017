@@ -25,7 +25,7 @@ A passive infrared sensor (PIR sensor) is an electronic sensor that measures inf
 
 
 
-# HW2
+# hw2
 
 Sketches
 ![](http://irisyuen0802.tumblr.com/image/157028672858)

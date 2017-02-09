@@ -39,5 +39,6 @@ Inline-style:
 Users can use hand movements to feel the sound of eggs, each egg has an especial tone of sound, so that users can notice the different when interacting the egg carton. By using PIR sensor and put a LED inside the egg, when a hand pass through it, the egg will be brighter and the produce a sound.
 
 .2. Music balloon
+
 By using the RGB color sensor, different color of balloon has an especial sound, users can by touching different color of balloon to create a song.
 

@@ -1,6 +1,6 @@
-# H1
-# hw1
-# *Flashlight Fish Installation*
+
+# Flashlight Fish Installation
+
 
 Flashlight fish is a digital screen installation which uses the light sensor to track the flashlight movement, 
 by detecting the flashlight, a bunch of fishes on the screen will follow the direction of the flashlight. 

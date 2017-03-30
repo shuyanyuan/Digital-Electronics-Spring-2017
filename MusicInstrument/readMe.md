@@ -1,4 +1,4 @@
-### examples:
+### Examples:
 
 Musical Instrument: A COLLECTIVE INSTRUMENT CAPTURING BREATHE WITH PAPER WINDMILLS
 
@@ -38,6 +38,13 @@ By using the RGB color sensor, different color of balloon has an especial sound,
 This is a music instrument that allows users play the music backward or forward by putting the hand to different position of the music cover. Using distance sensor to detect the distance of the hand, if user's hand moves far from the sensor, the music will play forward, otherwise, the music will play backward if user's hand moves closer to the sensor.
 
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/Snip20170330_3.png)
+Please download the attached video file "IMG_2248.mp4" on the folder to check the result
+
+###Schematic
+![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/schem.jpg)
+###Breadborad
+![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/Fritzing/music_instrument_bb.jpg)
+
 # Processing code:
 
 import processing.sound.*;

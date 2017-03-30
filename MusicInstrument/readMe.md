@@ -35,6 +35,9 @@ By using the RGB color sensor, different color of balloon has an especial sound,
 
 
 # Final music instrument
+This is a music instrument that allows users play the music backward or forward by putting the hand to different position of the music cover. Using distance sensor to detect the distance of the hand, if user's hand moves far from the sensor, the music will play forward, otherwise, the music will play backward if user's hand moves closer to the sensor.
+
+![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/Snip20170330_3.png)
 # Processing code:
 
 import processing.sound.*;

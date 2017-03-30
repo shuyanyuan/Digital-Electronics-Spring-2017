@@ -40,9 +40,9 @@ This is a music instrument that allows users play the music backward or forward 
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/Snip20170330_3.png)
 Please download the attached video file "IMG_2248.mp4" on the folder to check the result
 
-###Schematic
+### Schematic
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/schem.jpg)
-###Breadborad
+### Breadborad
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/Fritzing/music_instrument_bb.jpg)
 
 # Processing code:

@@ -44,6 +44,7 @@ Please download the attached video file "IMG_2248.mp4" on the folder to check th
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/schem.jpg)
 ### Breadborad
 ![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/Fritzing/music_instrument_bb.jpg)
+![alt text](https://raw.githubusercontent.com/shuyanyuan/Digital-Electronics-Spring-2017/master/MusicInstrument/WechatIMG2.jpeg)
 
 # Processing code:
 

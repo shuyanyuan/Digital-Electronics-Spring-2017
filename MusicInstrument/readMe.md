@@ -1,5 +1,5 @@
 
-#Processing code:
+# Processing code:
 
 import processing.sound.*;
 import processing.serial.*; 
@@ -86,7 +86,7 @@ void stop()
 }
 
 
-#Arduino:
+# Arduino code:
 #define trigPin 7
 #define echoPin 6
 #define led 13

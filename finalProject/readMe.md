@@ -46,7 +46,7 @@ Connections:
  - Analog pin to microphone output (configurable below)
  - Digital pin to LED data input (configurable below)
 
-  Written Shuyan Iris Yuan.  
+  Written by Shuyan Iris Yuan.  
 */
 
 

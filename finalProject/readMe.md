@@ -31,6 +31,16 @@ https://learn.adafruit.com/vu-meter-baseball-hat/add-leds-to-hat
 ## Schematic
 ![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/schematic.jpg)
 
+## Laser Cut
+![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/laser_cut.jpeg)
+
+## Prototype
+![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/soldering.jpeg)
+![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/construsting.jpeg)
+
+##Final 
+![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/final.jpeg)
+
 ## Code on Arduino 1.0.5
 ```
 /*

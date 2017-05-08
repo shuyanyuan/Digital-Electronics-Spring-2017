@@ -30,6 +30,7 @@ https://learn.adafruit.com/vu-meter-baseball-hat/add-leds-to-hat
 )
 
 ## Code on Arduino 1.0.5
+```
 /*
 Hardware requirements:
  - Most Arduino or Arduino-compatible boards (ATmega 328P or better).
@@ -172,3 +173,4 @@ uint32_t Wheel(byte WheelPos) {
    return strip.Color(0, WheelPos * 3, 255 - WheelPos * 3);
   }
 }
+```

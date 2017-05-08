@@ -28,6 +28,8 @@ https://learn.adafruit.com/vu-meter-baseball-hat/add-leds-to-hat
 ## Circuit Diagram
 ![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/led_strips_flora-diagram.jpg
 )
+## Schematic
+![alt tag](https://github.com/shuyanyuan/Digital-Electronics-Spring-2017/blob/master/finalProject/schematic.jpg)
 
 ## Code on Arduino 1.0.5
 ```
